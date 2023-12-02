@@ -48,7 +48,7 @@ const Post = () => {
             checkedIcon={<Favorite sx={{ color: "red" }} />}
           />
         </IconButton>
-        
+
         <IconButton aria-label="share">
           <Share />
         </IconButton>
